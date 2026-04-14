@@ -35,8 +35,8 @@ It explores patterns, trends, and regional variations in crop yield and builds a
 - Evaluation Metrics: R² Score, MAE, RMSE
 
 📂 Project Structure
-- main.py → Python toolbox and analysis code
-- dataset.csv → Dataset used for analysis
+- crop_python.py → Python toolbox and analysis code
+- crop_production.csv → Dataset used for analysis
 - README.md → Project documentation
 
 💡 Conclusion
